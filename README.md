@@ -1,0 +1,2 @@
+# Single-cell-Classification-for-early-detection-of-Acute-Myeloid-Leukemia-Using-Deep-Learning-Models
+Acute Myeloid Leukemia (AML) is one of the most life-threatening type of blood cancers, and its accurate classification is considered and remains a challenging.  This study addresses the classification of the multiclasses of AML cells Utilizing three deep learning models: ResNet50, YOLOv12, and Inception-ResNet50 v2.
