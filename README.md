@@ -7,4 +7,4 @@ Our experiments demonstrate that YOLOv12 with Otsu thresholding on cell-based se
 
 Combining effective segmentation with modern deep learning models demonstrated significant results and improvements in AML classification. This study emphasizes the importance of preprocessing in handling challenging cell types, particularly for cells, for instance, basophils and monocytes. 
 
-<img width="3929" height="1012" alt="detailed_model_aml_final" src="https://github.com/user-attachments/assets/659644f1-a7d1-4b19-98f1-1300d439660f" />
+<img width="2929" height="1512" alt="detailed_model_aml_final" src="https://github.com/user-attachments/assets/659644f1-a7d1-4b19-98f1-1300d439660f" />
