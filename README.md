@@ -1,4 +1,6 @@
 # Single-cell Classification for early detection of Acute Myeloid Leukemia Using YOLOv12, Inception-ResNet-v2, and ResNet50 Deep Learning Models
+
+## Note: The dataset is not included in this repository. you can find it in this Kaggle link: https://www.kaggle.com/datasets/sumithsingh/blood-cell-images-for-cancer-detection/data%7D%7Bthis
 Acute Myeloid Leukemia (AML) is one of the most life-threatening type of blood cancers, and its accurate classification is considered and remains a challenging task due to the visual similarity between various cell types.
 
 This study addresses the classification of the multiclasses of AML cells Utilizing three deep learning models: ResNet50, YOLOv12, and Inception-ResNet50 v2. We applied two segmentation approaches based on cell and nucleus features, using the Hue channel and Otsu thresholding techniques to preprocess the images before classification.
